@@ -29,7 +29,7 @@ BD = "\x1b[1m"
 
 # ---------------- 控制常量 ----------------
 DEBUG_MODE = "1"
-TOOL_TIMEOUT = 10 * 60
+TOOL_TIMEOUT = 60 * 60
 
 # auto 模式标志（--auto CLI），控制是否静默外部工具实时进度输出
 AUTO_MODE = False
